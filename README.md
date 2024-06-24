@@ -3,8 +3,8 @@
 > A comprehensive exploration of financial datasets using Python in a Jupyter Notebook environment.
 
 ## Authors:
-Rishabh Saha (rsaha130@gmail.com)
-Rohit Raju Vatsavaya (rohitraju.vatsavaya@gmail.com) 
+- Rishabh Saha (rsaha130@gmail.com)
+- Rohit Raju Vatsavaya (rohitraju.vatsavaya@gmail.com) 
 
 ## Table of Contents
 * [General Info](#general-information)
